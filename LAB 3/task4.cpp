@@ -36,7 +36,6 @@ int main(){
     car1.refuelTank();
     car1.driveCar(100);
     car1.driveCar(150);
-
     cout << "Fuel: " << car1.checkFuel() << endl;
-
-    retu
+    return 0;
+}
